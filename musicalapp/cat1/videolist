@@ -1,0 +1,4 @@
+[
+  {'name': 'video1', 'originalName': 'originalName1', 'creator': 'creator1', 'link': 'https://pixabay.com', 'path': 'https://knowledgetoaster.github.io/musicalapp/cat1/images/video1.mp4'}
+  {'name': 'video2', 'originalName': 'originalName1', 'creator': 'creator1', 'link': 'https://pixabay.com', 'path': 'https://knowledgetoaster.github.io/musicalapp/cat1/images/video2.mp4'}
+]
