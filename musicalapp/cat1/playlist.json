@@ -1,12 +1,5 @@
 [
-  {
-    "title": "Song 1",
-    "writer": "Writer 1",
-    "url": "https://knowledgetoaster.github.io/musicalapp/cat1/just-relax.mp3"
-  },
-  {
-    "title": "Song 2",
-    "writer": "Writer 2",
-    "url": "https://knowledgetoaster.github.io/musicalapp/cat1/relaxing.mp3"
-  } 
+  {'name': "audio1", 'originalName': "originalName1", 'creator': "creator1", 'link': "https://pixabay.com", 'path': "https://knowledgetoaster.github.io/musicalapp/cat1/audio/audio1.mp3"}
+  {'name': "audio2", 'originalName': "originalName2", 'creator': "creator2", 'link': "https://pixabay.com", 'path': "https://knowledgetoaster.github.io/musicalapp/cat1/audio/audio2.mp3"}
+  {'name': "audio3", 'originalName': "originalName3", 'creator': "creator3", 'link': "https://pixabay.com", 'path': "https://knowledgetoaster.github.io/musicalapp/cat1/audio/audio3.mp3"}
 ]
