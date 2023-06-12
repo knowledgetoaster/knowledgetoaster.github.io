@@ -35,12 +35,6 @@
       "path":"https://knowledgetoaster.github.io/musicalapp/cat2/audio/frozen-forest.mp3"
    },
    {
-      "name":"summer breeze",
-      "originalName":"summer breeze",
-      "creator":"NaturesEye",
-      "link":"https://pixabay.com/users/natureseye-18615106/",
-      "path":"https://knowledgetoaster.github.io/musicalapp/cat2/audio/summer-breeze.mp3"
-   },{
       "name":"romantic and sentimental",
       "originalName":"Romantic and Sentimental",
       "creator":"Oleg Kirilkov",
@@ -59,31 +53,6 @@
       "link":"https://pixabay.com/users/lesfm-22579021/",
       "path":"https://knowledgetoaster.github.io/musicalapp/cat2/audio/sedative.mp3"
    },{
-      "name":"muzyka relaksacyjna",
-      "originalName":"Muzyka Relaksacyjna",
-      "creator":"Marburg/Deutschland",
-      "link":"https://pixabay.com/users/blubonrelaxon-10581343/",
-      "path":"https://knowledgetoaster.github.io/musicalapp/cat2/audio/relaksacyjna.mp3"
-   },{
-      "name":"healing",
-      "originalName":"healing music",
-      "creator":"Marburg/Deutschland",
-      "link":"https://pixabay.com/users/blubonrelaxon-10581343/",
-      "path":"https://knowledgetoaster.github.io/musicalapp/cat2/audio/healing.mp3"
-   },{
-      "name":"autumn sky",
-      "originalName":"Autumn Sky Meditation",
-      "creator":"Leigh Robinson",
-      "link":"https://pixabay.com/users/natureseye-18615106/",
-      "path":"https://knowledgetoaster.github.io/musicalapp/cat2/audio/autumn-sky.mp3"
-   },{
-      "name":"starlight meditation",
-      "originalName":"starlight meditation",
-      "creator":"Leigh Robinson",
-      "link":"https://pixabay.com/users/natureseye-18615106/",
-      "path":"https://knowledgetoaster.github.io/musicalapp/cat2/audio/starlight.mp3"
-   },
-   {
       "name":"zen spiritual",
       "originalName":"Zen Spiritual Yoga",
       "creator":"Yoav Alyagon",
