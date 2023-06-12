@@ -1,0 +1,35 @@
+[
+   {
+      "name":"lofi1",
+      "originalName":"nil",
+      "creator":"Hokusay",
+      "link":"https://pixabay.com/users/hokusay-32097303/",
+      "path":"https://knowledgetoaster.github.io/musicalapp/cat4/images/lofi1.jpg"
+   },
+   {
+      "name":"lofi2",
+      "originalName":"nil",
+      "creator":"PortSundries",
+      "link":"https://pixabay.com/users/portsundries-31435223/",
+      "path":"https://knowledgetoaster.github.io/musicalapp/cat4/images/lofi2.jpg"
+   },
+   {
+      "name":"lofi3",
+      "originalName":"nil",
+      "creator":"Hokusay",
+      "link":"https://pixabay.com/users/hokusay-32097303/",
+      "path":"https://knowledgetoaster.github.io/musicalapp/cat4/images/lofi3.jpg"
+   },{
+      "name":"lofi4",
+      "originalName":"nil",
+       "creator":"PortSundries",
+      "link":"https://pixabay.com/users/portsundries-31435223/",
+      "path":"https://knowledgetoaster.github.io/musicalapp/cat4/images/lofi4.jpg"
+   },{
+      "name":"lofi5",
+      "originalName":"nil",
+       "creator":"PortSundries",
+      "link":"https://pixabay.com/users/portsundries-31435223/",
+      "path":"https://knowledgetoaster.github.io/musicalapp/cat4/images/lofi5.jpg"
+   }
+]
