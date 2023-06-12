@@ -1,0 +1,35 @@
+[
+   {
+      "name":"city1",
+      "originalName":"nil",
+      "creator":"barbaracascao",
+      "link":"https://pixabay.com/users/barbaracascao-15841899/",
+      "path":"https://knowledgetoaster.github.io/musicalapp/cat3/images/city1.jpg"
+   },
+   {
+      "name":"city2",
+      "originalName":"nil",
+      "creator":"Pexels",
+      "link":"https://pixabay.com/users/pexels-2286921/",
+      "path":"https://knowledgetoaster.github.io/musicalapp/cat3/images/city2.jpg"
+   },
+   {
+      "name":"city3",
+      "originalName":"nil",
+       "creator":"MasashiWakui",
+      "link":"https://pixabay.com/users/masashiwakui-4385858/",
+      "path":"https://knowledgetoaster.github.io/musicalapp/cat3/images/city3.jpg"
+   },{
+      "name":"city4",
+      "originalName":"nil",
+       "creator":"Rush4",
+      "link":"https://pixabay.com/users/rush4-11180069/",
+      "path":"https://knowledgetoaster.github.io/musicalapp/cat3/images/city4.jpg"
+   },{
+      "name":"city5",
+      "originalName":"nil",
+       "creator":"matthiaskost",
+      "link":"https://pixabay.com/users/matthiaskost-15902545/",
+      "path":"https://knowledgetoaster.github.io/musicalapp/cat3/images/city5.jpg"
+   }
+]
