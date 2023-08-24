@@ -1,0 +1,15 @@
+[{
+	"force": false,
+	"imagePath": "",
+	"appPackage": "com.knowledgebread.chillscape",
+	"available": true,
+	"links": [{
+		"name": "android",
+		"url": "https://bit.ly/chillscape"
+	},{
+		"name": "amazon",
+		"url": "https://bit.ly/amazon-chillscape"
+	}],
+	"info": "",
+	"title": ""
+}]
