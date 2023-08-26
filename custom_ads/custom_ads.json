@@ -4,24 +4,8 @@
    "imagePath": "",
    "appPackage": "com.knowledgebread.chillscape",
    "available": true,   
-   "links": [
-              {"name": "android", "url": "https://bit.ly/chillscape"},
-              {"name": "amazon", "url": "https://bit.ly/amazon-chillscape"} 
-            ],
+   "links": [],
    "info": "",
    "title": "" 
- },
- {   
-   "force":false,
-   "imagePath": "http://knowledgetoaster.github.io/custom_ads/images/stupid_game.png",
-   "appPackage": "com.knowledgebread.stupidgame",
-   "available": true,   
-   "installed":false,
-   "links": [
-              {"name": "android", "url": "https://bit.ly/stupidgame"},
-              {"name": "amazon", "url": "https://bit.ly/amazon-stupidgame"} 
-            ],
-   "info": "a simple memory game to improve your memory",
-   "title": "The Silly Game" 
  }
 ]
