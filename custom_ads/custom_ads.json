@@ -7,5 +7,14 @@
    "links": [],
    "info": "",
    "title": "" 
+ },
+ {   
+   "force":false,
+   "imagePath": "https://knowledgetoaster.github.io/custom_ads/images/gematria-decoder-web.png",
+   "appPackage": "com.knowledgebread.gematriadecoderweb",
+   "available": true,   
+   "links": ["https://www.gematria-decoder.com"],
+   "info": "",
+   "title": "" 
  }
 ]
