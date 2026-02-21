@@ -1,13 +1,29 @@
 <!DOCTYPE html>
+<html>
 <head>
-  <title>Knowledge Toaster</title>
-  <meta charset="UTF-8">
-  <style>
-         body {
-            background-image: url("docs/assets/promo-pc2.jpg");
-         }
-  </style>
+<style>
+  body, html {
+    height: 100%;
+    margin: 0;
+  }
+
+  .bg-image {
+    /* The image used */
+    background-image: url("docs/assets/promo-pc2.jpg");
+
+    /* Add the blur effect */
+    height: 100vh; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+</style>
 </head>
 <body>
-  
+
+<div class="bg-image"></div>
+
 </body>
+</html>
