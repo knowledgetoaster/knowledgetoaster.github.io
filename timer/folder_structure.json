@@ -1,0 +1,58 @@
+{
+  "name": "root",
+  "type": "folder",
+  "children": [
+    {
+      "name": "pre",
+      "type": "folder",
+      "children": [
+        {
+          "name": "audio",
+          "type": "folder",
+          "children": [
+            {
+              "name": "3-1-begin.mp3",
+              "type": "file"
+            },
+            {
+              "name": "time_up.mp3",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "bg",
+      "type": "folder",
+      "children": [
+        {
+          "name": "audio",
+          "type": "folder",
+          "children": [
+            {
+              "name": "the_mountain-uplifting-song-593085.mp3",
+              "type": "file"
+            }
+          ]
+        }       
+      ]
+    },
+    {
+      "name": "post",
+      "type": "folder",
+      "children": [
+        {
+          "name": "audio",
+          "type": "folder",
+          "children": [
+            {
+              "name": "session_complete.mp3",
+              "type": "file"
+            }
+          ]
+        }      
+      ]
+    }
+  ]
+}
