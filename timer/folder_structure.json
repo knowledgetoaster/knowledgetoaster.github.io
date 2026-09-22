@@ -7,18 +7,8 @@
       "type": "folder",
       "children": [
         {
-          "name": "audio",
-          "type": "folder",
-          "children": [
-            {
-              "name": "3-1-begin.mp3",
-              "type": "file"
-            },
-            {
-              "name": "time_up.mp3",
-              "type": "file"
-            }
-          ]
+          "name": "3-to-1-ready-go.mp3",
+          "type": "file"          
         }
       ]
     },
@@ -27,14 +17,8 @@
       "type": "folder",
       "children": [
         {
-          "name": "audio",
-          "type": "folder",
-          "children": [
-            {
-              "name": "the_mountain-uplifting-song-593085.mp3",
-              "type": "file"
-            }
-          ]
+          "name": "3-to-1-close_your_eyes.mp3",
+          "type": "file"         
         }       
       ]
     },
@@ -43,14 +27,8 @@
       "type": "folder",
       "children": [
         {
-          "name": "audio",
-          "type": "folder",
-          "children": [
-            {
-              "name": "session_complete.mp3",
-              "type": "file"
-            }
-          ]
+          "name": "breath-in-out-eg.mp3",
+          "type": "file"         
         }      
       ]
     }
