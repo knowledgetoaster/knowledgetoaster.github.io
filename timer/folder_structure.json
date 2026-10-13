@@ -7,6 +7,72 @@
       "type": "folder",
       "children": [
         {
+          "name": "chinese",
+          "type": "folder",
+          "children": [
+            {
+              "name": "3到1_开始.mp3",
+              "type": "file"
+            },
+            {
+              "name": "3到1_开始_活力语音.mp3",
+              "type": "file"
+            },
+            {
+              "name": "3到1闭上眼睛.mp3",
+              "type": "file"
+            },
+            {
+              "name": "吸气和呼气.mp3",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "japanese",
+          "type": "folder",
+          "children": [
+            {
+              "name": "3から1_始める.mp3",
+              "type": "file"
+            },
+            {
+              "name": "3から1_始める_アップビートボイス.mp3",
+              "type": "file"
+            },
+            {
+              "name": "3から1目を閉じて.mp3",
+              "type": "file"
+            },
+            {
+              "name": "吸って吐いて.mp3",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "name": "korean",
+          "type": "folder",
+          "children": [
+            {
+              "name": "3에서1_시작.mp3",
+              "type": "file"
+            },
+            {
+              "name": "3에서1_눈을_감으세요.mp3",
+              "type": "file"
+            },
+            {
+              "name": "3에서1_시작_활기찬_음성.mp3",
+              "type": "file"
+            },
+            {
+              "name": "숨쉬기_들이마시고_내쉬기.mp3",
+              "type": "file"
+            }
+          ]
+        },
+        {
           "name": "321_Lift_Off_by_freesound_community.mp3",
           "type": "file"
         },
@@ -210,6 +276,48 @@
       "name": "post",
       "type": "folder",
       "children": [
+        {
+          "name": "chinese",
+          "type": "folder",
+          "children": [
+            {
+              "name": "时间到.mp3",
+              "type": "file"
+            },
+            {
+              "name": "訓練結束.mp3",
+              "type": "file"
+            }
+          ]
+        },
+         {
+          "name": "japanese",
+          "type": "folder",
+          "children": [
+            {
+              "name": "時間です.mp3",
+              "type": "file"
+            },
+            {
+              "name": "練習が終わりました.mp3",
+              "type": "file"
+            }
+          ]
+        },
+         {
+          "name": "korean",
+          "type": "folder",
+          "children": [
+            {
+              "name": "운동이 끝났습니다.mp3",
+              "type": "file"
+            },
+            {
+              "name": "시간이 다 됐습니다.mp3",
+              "type": "file"
+            }
+          ]
+        },
         {
           "name": "Alarm-26718_by_freesound_community.mp3",
           "type": "file"
